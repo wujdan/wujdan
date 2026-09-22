@@ -1,4 +1,3 @@
-<h1 align="center">Danss</h1>
 <h3 align="center">Full Stack Developer · Machine Learning · IoT</h3>
 
 <p align="center">
