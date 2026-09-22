@@ -9,7 +9,6 @@
 <br>
 
 <p align="center">
-  ⚡ Fluent across the stack, sharp in <b>ML</b> and <b>IoT</b><br>
   🌱 always chasing something new to learn<br>
   💭 <i>"Don't be a complainer, you are in control of your own life."</i>
 </p>
